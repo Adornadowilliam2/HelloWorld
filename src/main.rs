@@ -18,4 +18,10 @@ fn main() {
             eprintln!("Error reading input: {}", error);
         }
     }
+
+    
+    for _ in 0..5 {
+        println!("Hello, world!");
+    }
+
 }
